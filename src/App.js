@@ -12,7 +12,16 @@ function App() {
         <main>
           <Dictionary defaultKeyword="sunrise" />
         </main>
-        <footer className="App-footer">Coded by Gabriella Dubas</footer>
+        <footer className="App-footer">
+          Coded by Gabriella Dubas and is open-sourced on{" "}
+          <a
+            href="https://github.com/Had1na/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Github
+          </a>
+        </footer>
       </div>
     </div>
   );

@@ -4,6 +4,7 @@ body {
 
 a {
   color: #c21255;
+  text-decoration: none;
 }
 
 .App {
